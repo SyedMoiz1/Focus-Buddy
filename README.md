@@ -4,7 +4,7 @@ Version 1.0
 By Liam Ault, Syed Moiz, Peter McQuin
 
 Description
-Many people suffer with losing focus. Study buddy looks to fix this by creating
+Many people suffer with losing focus. Focus buddy looks to fix this by creating
 set intervals for working and breaking. Study buddy also reminds users to stay on task
 by tracking their eyes, and also runs a game/website during their breaktime to make
 sure users actually take their breaks and dont get burnt out
